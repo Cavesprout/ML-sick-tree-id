@@ -1,0 +1,495 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "__via_region_id__",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "Sick_Tree_Annotations"
+        }
+    },
+    "_via_img_metadata": {
+        "DJI_0033.JPG4044928": {
+            "filename": "DJI_0033.JPG",
+            "size": 4044928,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1310,
+                        "y": 475,
+                        "width": 751,
+                        "height": 828
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2229,
+                        "y": 517,
+                        "width": 598,
+                        "height": 563
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0034.JPG4052487": {
+            "filename": "DJI_0034.JPG",
+            "size": 4052487,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1782,
+                        "y": 619,
+                        "width": 355,
+                        "height": 685
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0035.JPG4263999": {
+            "filename": "DJI_0035.JPG",
+            "size": 4263999,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1597,
+                        "y": 802,
+                        "width": 263,
+                        "height": 559
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1858,
+                        "y": 691,
+                        "width": 277,
+                        "height": 469
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0036.JPG4124944": {
+            "filename": "DJI_0036.JPG",
+            "size": 4124944,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1531,
+                        "y": 4,
+                        "width": 433,
+                        "height": 591
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1968,
+                        "y": 4,
+                        "width": 375,
+                        "height": 419
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0037.JPG4101776": {
+            "filename": "DJI_0037.JPG",
+            "size": 4101776,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1693,
+                        "y": 735,
+                        "width": 481,
+                        "height": 529
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1182,
+                        "y": 1182,
+                        "width": 469,
+                        "height": 393
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0044.JPG4141816": {
+            "filename": "DJI_0044.JPG",
+            "size": 4141816,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1848,
+                        "y": 607,
+                        "width": 313,
+                        "height": 571
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0045.JPG4190103": {
+            "filename": "DJI_0045.JPG",
+            "size": 4190103,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1920,
+                        "y": 643,
+                        "width": 281,
+                        "height": 391
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0046.JPG4250563": {
+            "filename": "DJI_0046.JPG",
+            "size": 4250563,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1679,
+                        "y": 750,
+                        "width": 737,
+                        "height": 854
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0047.JPG4133466": {
+            "filename": "DJI_0047.JPG",
+            "size": 4133466,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1529,
+                        "y": 499,
+                        "width": 1028,
+                        "height": 1192
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0048.JPG4156422": {
+            "filename": "DJI_0048.JPG",
+            "size": 4156422,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1595,
+                        "y": 321,
+                        "width": 1250,
+                        "height": 1599
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0049.JPG4166663": {
+            "filename": "DJI_0049.JPG",
+            "size": 4166663,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1569,
+                        "y": 820,
+                        "width": 1134,
+                        "height": 1281
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0050.JPG4143321": {
+            "filename": "DJI_0050.JPG",
+            "size": 4143321,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1749,
+                        "y": 643,
+                        "width": 948,
+                        "height": 912
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0051.JPG4049337": {
+            "filename": "DJI_0051.JPG",
+            "size": 4049337,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1988,
+                        "y": 908,
+                        "width": 154,
+                        "height": 174
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0052.JPG4103432": {
+            "filename": "DJI_0052.JPG",
+            "size": 4103432,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1930,
+                        "y": 1202,
+                        "width": 174,
+                        "height": 200
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0053.JPG4056651": {
+            "filename": "DJI_0053.JPG",
+            "size": 4056651,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1898,
+                        "y": 743,
+                        "width": 184,
+                        "height": 250
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0054.JPG3999767": {
+            "filename": "DJI_0054.JPG",
+            "size": 3999767,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1916,
+                        "y": 1309,
+                        "width": 200,
+                        "height": 248
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0056.JPG4232919": {
+            "filename": "DJI_0056.JPG",
+            "size": 4232919,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1764,
+                        "y": 816,
+                        "width": 246,
+                        "height": 238
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0057.JPG4102492": {
+            "filename": "DJI_0057.JPG",
+            "size": 4102492,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1699,
+                        "y": 643,
+                        "width": 315,
+                        "height": 279
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0058.JPG4338020": {
+            "filename": "DJI_0058.JPG",
+            "size": 4338020,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1808,
+                        "y": 743,
+                        "width": 287,
+                        "height": 319
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0059.JPG4111217": {
+            "filename": "DJI_0059.JPG",
+            "size": 4111217,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1731,
+                        "y": 683,
+                        "width": 441,
+                        "height": 307
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0060.JPG4074231": {
+            "filename": "DJI_0060.JPG",
+            "size": 4074231,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1641,
+                        "y": 683,
+                        "width": 447,
+                        "height": 449
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0061.JPG4011230": {
+            "filename": "DJI_0061.JPG",
+            "size": 4011230,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1639,
+                        "y": 675,
+                        "width": 511,
+                        "height": 455
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJI_0062.JPG4098067": {
+            "filename": "DJI_0062.JPG",
+            "size": 4098067,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1571,
+                        "y": 643,
+                        "width": 545,
+                        "height": 479
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {},
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "DJI_0033.JPG4044928",
+        "DJI_0034.JPG4052487",
+        "DJI_0035.JPG4263999",
+        "DJI_0036.JPG4124944",
+        "DJI_0037.JPG4101776",
+        "DJI_0044.JPG4141816",
+        "DJI_0045.JPG4190103",
+        "DJI_0046.JPG4250563",
+        "DJI_0047.JPG4133466",
+        "DJI_0048.JPG4156422",
+        "DJI_0049.JPG4166663",
+        "DJI_0050.JPG4143321",
+        "DJI_0051.JPG4049337",
+        "DJI_0052.JPG4103432",
+        "DJI_0053.JPG4056651",
+        "DJI_0054.JPG3999767",
+        "DJI_0056.JPG4232919",
+        "DJI_0057.JPG4102492",
+        "DJI_0058.JPG4338020",
+        "DJI_0059.JPG4111217",
+        "DJI_0060.JPG4074231",
+        "DJI_0061.JPG4011230",
+        "DJI_0062.JPG4098067"
+    ]
+}
