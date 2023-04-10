@@ -25,11 +25,11 @@ for file in os.listdir("sick"):
     })
     data_dict[file] = tree_data.get_as_dict()
 
-for file in os.listdir("sick_features"):
-    tree_data = tree_img(file, {
-        "classification" : "sick_feature"
-    })
-    data_dict[file] = tree_data.get_as_dict()
+# for file in os.listdir("sick_features"):
+#     tree_data = tree_img(file, {
+#         "classification" : "sick_feature"
+#     })
+#     data_dict[file] = tree_data.get_as_dict()
 
 
 # Read annotations into attributes of files
