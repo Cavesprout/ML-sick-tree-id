@@ -33,4 +33,4 @@ def normalize_saturation_value(input_img):
     # Convert the HSV image back to BGR color space
     output_image = cv2.cvtColor(hsv_image, cv2.COLOR_HSV2BGR)
 
-    return output_image
+    cv2.imshow(output_image)
